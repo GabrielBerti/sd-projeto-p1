@@ -1,0 +1,18 @@
+--- 08/05/2020
+Criação da arquitetura básica do projeto
+Criação do modelo relacional do banco de dados
+Criação das tabelas do banco de dados
+Criação do projeto
+
+--- 12/05/2011
+Desenvolvimento do módulo client
+Desenvolvimento do módulo server
+Desenvolvimento do módulo util
+
+--- 20/05/2020
+Desenvolvimento do console (classe principal)
+Desenvolvimento dos inserts
+
+--- 21/05/2020
+Desenvolvimento das listas
+Testes
